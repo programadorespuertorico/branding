@@ -1,2 +1,5 @@
-# branding
-Archivos de logos, logos, fonts, imágenes, y materiales asociados al branding de P:PR. 
+# P:PR - Branding
+Repositorio de logos, logos, fonts, imágenes, y archivos asociados al *branding* de P:PR. 
+
+## Programas
+Para manipular estos archivos, utilice Adobe Photoshop e Illustrator.
